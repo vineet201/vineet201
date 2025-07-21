@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vineet201
+- 👋 Hi, I’m Vineet Kumar Sinha
 - 👀 I’m interested in Robitics, Space and development like website and android
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some open source platforms
