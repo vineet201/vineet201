@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Vineet Kumar Sinha — CS Engineer, SaaS Lead Engineer & Hardware Hacker
-- 🚀 Building GoHotelify — an AI Hotel Operating System used by hotels across India
+- 🚀 Building GoHotelify.com — an AI Hotel Operating System used by hotels across India
 - 🏢 Lead Engineer @ Stairio Technologies · Freelance Web Dev · President, Robotics Society @ BIT Mesra
 - 🛠️ Stack: React Router v7 · TypeScript · Cloudflare Workers · Supabase · Drizzle ORM · Razorpay · PostgreSQL RLS
 - 🤖 Background in robotics, IoT, PCB design, UAV systems & aeromodelling — interned at HAL Bangalore
